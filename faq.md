@@ -231,12 +231,4 @@ For example, we have European bands on The Pack who have a separate entity for t
 
 To make this happen on The Pack, you should simply set up a company for every separate entity you operate, and create a uniquely named band under every company. 
 
-<p style="text-align: right">
 For example, user Till Lindeman would create ‘Rammstein EU inc’ and ‘Rammstein US inc’ and create band ‘Rammstein EU’ and ‘Rammstein US’ under each respective company. Whenever there’s a US tour, Till would make sure all transactions happen with Rammstein US.</p>
-
-
-The end. 
-
-Didn’t find what you were looking for?
-
-Please let us know by either inserting a comment (Select a sentence, click insert on the menu and select “comment”) or by sending an email to **helpdesk@partofthepack.com.** 
