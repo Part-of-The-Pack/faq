@@ -8,13 +8,6 @@ This document is made to make your life easier by answering any questions you mi
 
 If a question you have is not included here, please let us know by either inserting a comment (click insert on the menu and select “comment”) or by sending an email to **helpdesk@partofthepack.com.** 
 
-**<span style="text-decoration:underline;">TABLE OF CONTENTS</span>**
-
-
-[TOC]
-
-
-
 ## What is The Pack again?
 
 The Pack is the platform that helps Artist Teams do Business; whether you’re an artist, an artist manager, a freelance sound engineer, a tour manager or anyone else involved in the music business - we are here for you.
