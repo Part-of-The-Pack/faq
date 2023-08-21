@@ -8,6 +8,7 @@ This document is made to make your life easier by answering any questions you mi
 
 If a question you have is not included here, please let us know by either inserting a comment (click insert on the menu and select “comment”) or by sending an email to **helpdesk@partofthepack.com.** 
 
+
 ## What is The Pack again?
 
 The Pack is the platform that helps Artist Teams do Business; whether you’re an artist, an artist manager, a freelance sound engineer, a tour manager or anyone else involved in the music business - we are here for you.
@@ -55,7 +56,7 @@ This[ link](https://support.stripe.com/topics/verification) on the Stripe help c
 
 ## How much does it cost to use The Pack? {#how-much-does-it-cost-to-use-the-pack}
 
-<span style="text-decoration:underline;">In short</span>: access to the platform is free; we only charge a fee if you _pay_ invoices, no costs if you _get paid_.
+In short: access to the platform is free; we only charge a fee if you _pay_ invoices, no costs if you _get paid_.
 
 
 ### Getting paid {#getting-paid}
@@ -220,7 +221,7 @@ For example: The Beatles Incorporated is a company. Note that Paul can belong to
 
 A Band or Brand (We like to call this ‘**B(r)and**’) is the name under which organizations operate and want to be found by others on The Pack. Organizations can have multiple bands or brands.
 
-For Example: ‘The Beatles’ is the band under which ‘The Beatles Incorporated’ operates. Paul’s organization ‘Mccartney Limited’ goes to market under 2 different brand names: ‘Paul Mccartney Solo’ for his solo albums and ‘DJ Paul’ when he’s DJ’ing at techno raves. 
+For example: ‘The Beatles’ is the band under which ‘The Beatles Incorporated’ operates. Paul’s organization ‘Mccartney Limited’ goes to market under 2 different brand names: ‘Paul Mccartney Solo’ for his solo albums and ‘DJ Paul’ when he’s DJ’ing at techno raves. 
 
 
 ## I use a different entity (company) to book incomes from my band in different countries; how do I make this happen on The Pack? {#i-use-a-different-entity-company-to-book-incomes-from-my-band-in-different-countries-how-do-i-make-this-happen-on-the-pack}
@@ -231,4 +232,4 @@ For example, we have European bands on The Pack who have a separate entity for t
 
 To make this happen on The Pack, you should simply set up a company for every separate entity you operate, and create a uniquely named band under every company. 
 
-For example, user Till Lindeman would create ‘Rammstein EU inc’ and ‘Rammstein US inc’ and create band ‘Rammstein EU’ and ‘Rammstein US’ under each respective company. Whenever there’s a US tour, Till would make sure all transactions happen with Rammstein US.</p>
+For example, user Till Lindeman would create ‘Rammstein EU inc’ and ‘Rammstein US inc’ and create band ‘Rammstein EU’ and ‘Rammstein US’ under each respective company. Whenever there’s a US tour, Till would make sure all transactions happen with Rammstein US.
