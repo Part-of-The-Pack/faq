@@ -200,7 +200,7 @@ No limit whatsoever - feel free to go wild!
 Example of an answer to that question.
 
 
-## _What is the difference between a User_, a_ Band_ or Brand and an Organization_?_ {#what-is-the-difference-between-a-user-a-band-or-brand-and-an-organization}
+## What is the difference between a User,a Band or Brand and an Organization? {#what-is-the-difference-between-a-user-a-band-or-brand-and-an-organization}
 
 
 ### What are users? {#what-are-users}
