@@ -1,3 +1,7 @@
+---
+type: intro
+---
+
 Hello there,
 
 And welcome to this Frequently Asked Questions document about The Pack!
@@ -8,20 +12,32 @@ This document is made to make your life easier by answering any questions you mi
 
 If a question you have is not included here, please let us know by either inserting a comment (click insert on the menu and select “comment”) or by sending an email to **helpdesk@partofthepack.com.** 
 
-
-## What is The Pack again?
+---
+type: question
+title: What is The Pack again?
+tags:
+    - general
+---
 
 The Pack is the platform that helps Artist Teams do Business; whether you’re an artist, an artist manager, a freelance sound engineer, a tour manager or anyone else involved in the music business - we are here for you.
 
 Our focus is to help you easily plan tour budgets through The Pack Tour and make transactions frictionless through The Pack Pay.
 
-
-## What is The Pack Pay?
+---
+type: question
+title: What is The Pack Pay?
+tags:
+    - pay
+---
 
 The Pack Pay is our very first product, which aims to help make transactions easy. It was built based on the firsthand observation that artist teams and freelancers spend a lot of time emailing invoices back and forth and making payments manually through bank accounts. We want to help them (you!) claim that time back so you can spend it on crowd-pleasing activities instead :).
 
-
-## Something isn’t working for me, how do I get support?
+---
+type: question
+title: Something isn’t working for me, how do I get support?
+tags:
+    - general
+---
 
 Oh no! We’re here to help you - just drop us an email on [helpdesk@partofthepack.com](mailto:helpdesk@partofthepack.com)
 
