@@ -15,11 +15,11 @@ It can be used mainly for the content:
 
 ### FAQ folder
 
-The faq folder relates to all content on the website and webapp [https://app.partofthepack.com/faq](FAQ).
+The faq folder relates to all content on the website and webapp [FAQ](https://app.partofthepack.com/faq).
 
 ## How?
 
-Create pages in markdown. You can use all rich markdown features [https://stackedit.io/app#](cfr StackEdit).
+Create pages in markdown. You can use all rich markdown features [cfr StackEdit](https://stackedit.io/app).
 In fact, you can even use StackEdit to create your pages and then copy paste it into github here.
 
 ### Metadata
