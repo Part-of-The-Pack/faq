@@ -22,8 +22,6 @@ The faq folder relates to all content on the website and webapp [https://app.par
 Create pages in markdown. You can use all rich markdown features [https://stackedit.io/app#](cfr StackEdit).
 In fact, you can even use StackEdit to create your pages and then copy paste it into github here.
 
-This video here explains the best way to do this:
-<!-- add loom video here -->
 ### Metadata
 
 Every article should contain some metadata
