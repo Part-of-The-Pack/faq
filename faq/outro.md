@@ -4,4 +4,4 @@ type: outro
 
 Didn’t find what you were looking for?
 
-Please let us know by either inserting a comment (Select a sentence, click insert on the menu and select “comment”) or by sending an email to **helpdesk@partofthepack.com.** 
+Please let us know by either sending an email to **helpdesk@partofthepack.com.** or via the chat icon in the bottom right of this screen.
