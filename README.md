@@ -22,6 +22,10 @@ The faq folder relates to all content on the website and webapp [FAQ](https://ap
 Create pages in markdown. You can use all rich markdown features [cfr StackEdit](https://stackedit.io/app).
 In fact, you can even use StackEdit to create your pages and then copy paste it into github here.
 
+### Update FAQ section
+
+Every time a new change is pushed to this main branch, a webhook gets triggered to refresh the FAQ data on the website.
+
 ### Metadata
 
 Every article should contain some metadata
