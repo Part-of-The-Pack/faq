@@ -6,21 +6,21 @@ tags:
     - general
 ---
 
-### What are users?
+#### What are users?
 
 A **User** is what you need to log in to The Pack; it is how we know who you are.
 
 For example: Paul McCartney is a user, who registers with paul@thebeatles.com and password YellowSubmarine
 
 
-### What are organizations?
+#### What are organizations?
 
 An **Organization** is a financial entity; it is registered, and has a bank account. Users can have access to multiple organizations, and when you complete the onboarding process on Stripe, you create an organization.
 
 For example: The Beatles Incorporated is a company. Note that Paul can belong to multiple companies; he also has Mccartney Limited as a company, that he uses for his solo work.
 
 
-### What is a B(r)and?
+#### What is a B(r)and?
 
 A Band or Brand (We like to call this ‘**B(r)and**’) is the name under which organizations operate and want to be found by others on The Pack. Organizations can have multiple bands or brands.
 
