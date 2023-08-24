@@ -25,49 +25,48 @@ The full list of **detailed roles** under each category can be found below:
  
 
 
-    Artist Services: Art Director, Choreographer, Hair & Makeup, Massage Therapist, Musical Director, Orchestra Arranger, Orchestra Conductor, Orchestra Fixer, Personal Assistant, Personal Trainer, Photographer, Publicist, Stylist, Vocal Coach, Wardrobe Manager, Yoga Practitioner.
+- **Artist Services**: Art Director, Choreographer, Hair & Makeup, Massage Therapist, Musical Director, Orchestra Arranger, Orchestra Conductor, Orchestra Fixer, Personal Assistant, Personal Trainer, Photographer, Publicist, Stylist, Vocal Coach, Wardrobe Manager, Yoga Practitioner.
 
 
-    Audio Production: Ableton Operator, Audio Networking Operator, Audiologist, Broadcast Sound Supervisor, FOH Engineer, FOH Tech, Head of Sound, Monitor Engineer, Monitor Tech, Q8 Mobile Engineer, PA Crew Chief, PA Systems Tech, Patch Engineer, Recording & Playback Engineer, Sound Tech, Wireless Comms Tech.
+- **Audio Production**: Ableton Operator, Audio Networking Operator, Audiologist, Broadcast Sound Supervisor, FOH Engineer, FOH Tech, Head of Sound, Monitor Engineer, Monitor Tech, Q8 Mobile Engineer, PA Crew Chief, PA Systems Tech, Patch Engineer, Recording & Playback Engineer, Sound Tech, Wireless Comms Tech.
 
 
-    Backline: Backline Tech, Bass Tech, Drum & Percussion Tech, Guitar Tech, Head of Backline, Keyboard, MIDI & Playback Tech, Orchestral Tech, Piano Tuner, Roadie, Stage Changeover Crew.
+- **Backline**: Backline Tech, Bass Tech, Drum & Percussion Tech, Guitar Tech, Head of Backline, Keyboard, MIDI & Playback Tech, Orchestral Tech, Piano Tuner, Roadie, Stage Changeover Crew.
+
+- **Catering & Hospitality**: Catering Crew, Catering Chef, Catering Head Chef.
 
 
-    Catering & Hospitality: Catering Crew, Catering Chef, Catering Head Chef.
+- **Event Logistics Management**: Logistics Manager, On-site Service Manager, Production Manager, Risk Assessment, Site Advance, Site Manager & Coordinator, Tour Manager, Welfare & Facilities Manager.
 
 
-    Event Logistics Management: Logistics Manager, On-site Service Manager, Production Manager, Risk Assessment, Site Advance, Site Manager & Coordinator, Tour Manager, Welfare & Facilities Manager.
+- **Health, Safety & Welfare**: Audio Environment & Pollution Consultant, Audiologist, Health & Safety Inspector, Health & Safety Officer, Light Pollution Consultant, Medic, Security, Site Inspector.
 
 
-    Health, Safety & Welfare: Audio Environment & Pollution Consultant, Audiologist, Health & Safety Inspector, Health & Safety Officer, Light Pollution Consultant, Medic, Security, Site Inspector.
+- **Lasers, SFX & Pyro**: Special Effects Designer, Special Effects Supervisor, Special Effects Tech.
 
 
-    Lasers, SFX & Pyro: Special Effects Designer, Special Effects Supervisor, Special Effects Tech.
+- **Lighting**: Follow Spot & Spot Light Operator, Head of Lighting, Lighting Crew Chief, Lighting Designer, Lighting Director, Lighting Programmer, Lighting Tech.
 
 
-    Lighting: Follow Spot & Spot Light Operator, Head of Lighting, Lighting Crew Chief, Lighting Designer, Lighting Director, Lighting Programmer, Lighting Tech.
+- **Load In, Load Out Crew**: Carpenter, Carpenter Head, Electrician, Local Crew, Local Crew Chief, Plant Fork Lift Driver, Rigger, Rigger Head, Scaffolder & Truss Engineer, Stage Builder, Stage Hand, Steel Hand.
 
 
-    Load In, Load Out Crew: Carpenter, Carpenter Head, Electrician, Local Crew, Local Crew Chief, Plant Fork Lift Driver, Rigger, Rigger Head, Scaffolder & Truss Engineer, Stage Builder, Stage Hand, Steel Hand.
+- **Merchandiser**: Merchandiser, Merchandising Head, Merchandising Manager.
 
 
-    Merchandiser: Merchandiser, Merchandising Head, Merchandising Manager.
+- **Performers**: Choreographer, Dancer, Session Musician, Session Singer.
 
 
-    Performers: Choreographer, Dancer, Session Musician, Session Singer.
+- **Production Coordination**: Account Manager, Event Manager, Guest List, Head of Dressing Rooms, Production Coordinator Assistant, Production Director, Production Manager, Production Runner & Artist Liaison, Radio Comms Operator, Stage Manager, Tour Accountant & Production Accountant, Tour Director, Tour Manager, VIP Customer Experience Manager, WiFi Networking Tech.
 
 
-    Production Coordination: Account Manager, Event Manager, Guest List, Head of Dressing Rooms, Production Coordinator Assistant, Production Director, Production Manager, Production Runner & Artist Liaison, Radio Comms Operator, Stage Manager, Tour Accountant & Production Accountant, Tour Director, Tour Manager, VIP Customer Experience Manager, WiFi Networking Tech.
+- **Staging & Set Design**: Barrier & Pit Tech, Carpenter, Carpenter Head, Draping, Backdrop & Curtain Operator, Electrician, Fabrications Tech, Motion Control Operator, Motor & Chain Hoist Operator, Rigger, Rigger Head, Set Designer, Stage Builder, Stage Manager, Staging Riser Crew, Staging Crew Chief.
 
 
-    Staging & Set Design: Barrier & Pit Tech, Carpenter, Carpenter Head, Draping, Backdrop & Curtain Operator, Electrician, Fabrications Tech, Motion Control Operator, Motor & Chain Hoist Operator, Rigger, Rigger Head, Set Designer, Stage Builder, Stage Manager, Staging Riser Crew, Staging Crew Chief.
+- **Transport**: Bus Driver, Chauffeur, Splitter Driver, Truck Driver, Truck Driver Lead Truck.
 
 
-    Transport: Bus Driver, Chauffeur, Splitter Driver, Truck Driver, Truck Driver Lead Truck.
-
-
-    Video: Broadcast Engineer, Camera Operator, Drone Operator, Jib Operator, Live Stream Operator, Projection Designer, Projection Tech, Server Tech, Video Director, Video Editor.
+- **Video**: Broadcast Engineer, Camera Operator, Drone Operator, Jib Operator, Live Stream Operator, Projection Designer, Projection Tech, Server Tech, Video Director, Video Editor.
 
 In addition, we have included a list of **professions** that don't really fit under the services category, but might come in handy when assigning roles. Especially when you want to take for example the artist with you on the tour (which we recommend :).
 
