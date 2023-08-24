@@ -5,6 +5,6 @@ tags:
     - payments
 ---
 
-TODO Elias
+The payment terms indicate when payment is due relative to the date on which goods or services were delivered, or when your invoice for those goods or services was delivered.
 
-<div style="position: relative; padding-bottom: 64.5933014354067%; height: 0;"><iframe src="https://www.loom.com/embed/d829a983e18f4fca8da6d046f4789619?sid=9a0a98e2-8354-4682-b3b1-d132ccd9405a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+You can choose between a few options of payment terms to send along with your invoice, the shortest being "7 days" and the longest "60 days".
