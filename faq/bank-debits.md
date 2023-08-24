@@ -4,7 +4,7 @@ title: Bank Debits (e.g SEPA, ACH,...)
 tags:
     - payments
     - payment-methods
-        featured: 2
+        - featured: 2
         
 ---
 
