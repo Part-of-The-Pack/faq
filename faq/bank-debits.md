@@ -4,6 +4,8 @@ title: Bank Debits (e.g SEPA, ACH,...)
 tags:
     - payments
     - payment-methods
+        featured: 2
+        
 ---
 
 Bank Debit payments basically allow the business you want to pay to directly pull funds from your account, after you have authorized them to do so. \
