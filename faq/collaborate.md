@@ -1,3 +1,11 @@
+---
+type: question
+title: How can I collaborate with others on tour creation?
+tags:
+    - tour
+    - access rights
+---
+
 Right before you begin creating a tour, you should select the b(r)and under which you want to create this tour.
 
 People with access to this b(r)and will be able to collaborate with you on this tour - depending on which access rights they have.
