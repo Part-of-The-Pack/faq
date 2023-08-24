@@ -2,12 +2,12 @@
 type: question
 title: Bank Debits (e.g SEPA, ACH,...)
 tags:
-    - payments
-    - payment-methods
+    - tag: payments
+    - tag: payment-methods
       featured: 2
-    - 3rd-tag
+    - tag: 3rd-tag
       featured: 5
-    - 4th-tag-not-featured
+    - tag: 4th-tag-not-featured
         
 ---
 
