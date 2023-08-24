@@ -3,6 +3,7 @@ type: question
 title: What is The Pack Tour?
 tags:
     - tour
+    - general
 ---
 
 The Pack Tour aims to make the financial side of tour planning easy.
