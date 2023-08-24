@@ -3,6 +3,7 @@ type: question
 title: What are contracts?
 tags:
     - tour
+    - contracts
 ---
 Contracts are agreements between the organizer of a tour and a crew member regarding the planning of a crew member and the fees that crew member will be paid.
 
