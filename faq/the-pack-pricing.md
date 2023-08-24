@@ -3,6 +3,7 @@ type: question
 title: How much does it cost to use The Pack?
 tags:
     - general
+    - pricing
 ---
 
 In short, access to the platform is free.
