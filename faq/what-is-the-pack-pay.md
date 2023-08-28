@@ -3,6 +3,8 @@ type: question
 title: What is The Pack Pay?
 tags:
     - payments
+    - section: basics
+      featured: 3
 ---
 
 The Pack Pay aims to make transactions easy.

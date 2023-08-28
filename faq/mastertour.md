@@ -3,6 +3,8 @@ type: question
 title: Is The Pack a tour management software platform like for example Mastertour?
 tags:
     - general
+    - section: basics
+      featured: 6
 ---
 Not really.
 

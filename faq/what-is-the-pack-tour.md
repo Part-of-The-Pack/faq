@@ -4,6 +4,9 @@ title: What is The Pack Tour?
 tags:
     - tour
     - general
+    - section: basics
+      featured: 2
+      
 ---
 
 The Pack Tour aims to make the financial side of tour planning easy.

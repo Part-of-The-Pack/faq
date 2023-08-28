@@ -4,6 +4,8 @@ title: What is the difference between a User, a Band or Brand and an Organizatio
 tags:
     - brands
     - general
+    - section: basics
+      featured: 4
 ---
 
 #### What are users?

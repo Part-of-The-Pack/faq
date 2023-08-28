@@ -34,6 +34,14 @@ Every article should contain some metadata
 - subtitle: Optional subtitle
 - type:
   - question: In the case of FAQ, all the questions are added to the FAQ pages
-  - intro: It should only contain one, and that is the intro of the FAQ home screen
-  - outro: It should only contain one, and that is the outro of the FAQ home screen
-- tags: This can contain a list of tags that are used on the FAQ website to filter easily
+  - intro: This is the intro of the FAQ home screen
+  - outro: This is the outro of the FAQ home screen
+  - section: This is the metadata related to the section
+- tags (only handled in case of type=question):
+  - This can contain a list of tags that are used on the FAQ website to filter easily
+  - This can contain a list of sections, with the id (section: basics) and the featured: 1,2,3 to define the order of appearance
+- featured (only handled in case of type=intro, outro, section) to define the order of appearance
+
+### Subfolders
+
+- The subfolder structure is not important for the parsing, it is only for humans to be able to structure the way they find most comfortable for editing and structuring

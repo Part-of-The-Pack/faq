@@ -1,5 +1,6 @@
 ---
 type: intro
+featured: 1
 ---
 
 Hello there,
@@ -10,4 +11,4 @@ Given that you’re here, it looks like you are one of our early users… and we
 
 This document is made to make your life easier by answering any questions you might have while using The Pack.
 
-If a question you have is not included here, please let us know by either sending an email to **helpdesk@partofthepack.com** or via the chat icon in the bottom right of this screen.
+If a question you have is not included here, please let us know by either sending an email to **<helpdesk@partofthepack.com>** or via the chat icon in the bottom right of this screen.
