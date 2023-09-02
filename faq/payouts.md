@@ -36,5 +36,6 @@ Because the banks need to process the request, it may take a few days extra befo
 We send you 2 emails to keep you informed of the process:
 
 * When your customer has initiated the payment, we send you an email to let you know the payment is processing. You will also see the status ‘processing’ next to the payment request on The Pack Pay.
-* When the processing is done about 5 days later, you will get a second email to tell you that you’ve been paid. And, we will mark the payment request on The Pack Pay as ‘paid’.
 * When Stripe has received your payment, we will send you a second email to tell you the money has hit your Stripe account. And, we will mark the payment request on The Pack Pay as ‘paid’, because the money now is officially "yours"; your customer has paid you.
+
+You may also receive emails from Stripe directly to let you know the payout is on the way.
