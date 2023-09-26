@@ -3,7 +3,7 @@ type: question
 title: What do I do if payments are not reaching me, although I’ve waited long enough? 
 tags:
     - payments
-    - getting-paid
+    - getting paid
 ---
 
 In very rare circumstances, a payment is held back until Stripe verifies some of your information.
