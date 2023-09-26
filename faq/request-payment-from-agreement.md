@@ -2,10 +2,10 @@
 type: question
 title: How can I request a (partial) payment for a tour I've been added to?
 tags:
-    - Payments
-    - Invoices
-    - Getting paid
-    - Contracts
+    - payments
+    - invoices
+    - getting paid
+    - contracts
 ---
 
 Excellent question! 
