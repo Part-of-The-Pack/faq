@@ -9,7 +9,7 @@ tags:
 ---
 
 Excellent question! 
-We tried to make this really easy for you.
+We tried to make this really easy for everyone involved.
 
 The steps are the following:
 
