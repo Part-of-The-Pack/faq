@@ -5,7 +5,7 @@ tags:
     - payments
     - invoices
     - getting-paid
-    - contracts
+    - agreements
 ---
 
 Excellent question! 
