@@ -3,7 +3,7 @@ type: question
 title: How can I collaborate with others on tour creation?
 tags:
     - tour
-    - access rights
+    - access-rights
 ---
 
 Right before you begin creating a tour, you should select the b(r)and under which you want to create this tour.
