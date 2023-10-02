@@ -3,6 +3,7 @@ type: question
 title: How do the ‘payment terms’ work?
 tags:
     - payments
+    - getting-paid
 ---
 
 The payment terms indicate when payment is due relative to the date on which goods or services were delivered, or when your invoice for those goods or services was delivered.
