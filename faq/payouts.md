@@ -3,7 +3,7 @@ type: question
 title: How long does it take before payments made to me reach my account?
 tags:
     - payments
-    - getting paid
+    - getting-paid
 ---
 
 We know you want your money as soon as possible, so we’re trying to ensure this doesn’t take too long! There are a few different answers to this question though, so please read on.
