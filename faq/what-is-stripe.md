@@ -3,6 +3,7 @@ type: question
 title: Why am I being referred to something called ‘Stripe’ during the setup of my profile?
 tags:
     - payments
+    - getting-paid
     - stripe
 ---
 
