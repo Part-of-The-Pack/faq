@@ -10,7 +10,7 @@ Luckily, changing the dates of a tour you already created is not very hard - alt
 Here are the simple steps to follow:
 
 1. Open the tour you want to change the dates of
-2. Click the botton on top that says "Edit tour configuration"
+2. Click the botton on top that says "**Edit tour configuration**"
 3. Click the date you want the tour to **start**
 4. Click the date you want the tour to **end**
 5. Click the big red "update" button at the bottom
