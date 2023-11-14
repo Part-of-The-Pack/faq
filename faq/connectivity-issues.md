@@ -1,6 +1,6 @@
 ---
 type: question
-title: I have connectivity issues with the app??
+title: I have connectivity issues with the app?
 tags:
   - general
   - support
