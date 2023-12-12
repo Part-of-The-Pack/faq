@@ -41,3 +41,6 @@ When you export your report from The Pack, you'll get 3 separate columns:
 3. The total cost (= net + contingency, meaning $550)
 
 This gives you total flexibility to report net costs and contingency/margin for your tour and across multiple tours as well.
+
+Oh and by the way, you can find the original announcement of this feature **[here](https://blog.partofthepack.com/introducing-tour-float-and-contingency/)**
+
