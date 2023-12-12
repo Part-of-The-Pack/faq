@@ -8,7 +8,7 @@ tags:
 ---
 
 Excellent question! We're really proud of this feature!
-You can find the original announcement [here](https://blog.partofthepack.com/introducing-tour-float-and-contingency/)
+You can find the original announcement **[here](https://blog.partofthepack.com/introducing-tour-float-and-contingency/)**
 
 #### What is Tour Float?
 Tour Float is a feature that allows you to upload funds to The Pack, that you can then use to make payments instantly. 
