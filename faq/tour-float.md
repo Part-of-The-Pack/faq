@@ -4,7 +4,7 @@ title: What is the Tour Float?
 subtitle: And how should I use it?
 tags:
     - payments
-    - 
+    - tour-float
 ---
 
 Excellent question! We're really proud of this feature!
@@ -19,7 +19,7 @@ Because on tour, every bank transfer that needs to be initiated takes time and l
 #### Who should use this?
 Anyone who is paying crew members or suppliers on The Pack can use it. (Looking at you, managers, accountants and tour managers!)
 
-### How does it work?
+#### How does it work?
 You top-up the Tour Float through a simple bank transfer.
 The funds become visible on The Pack as soon as the transaction is processed by your bank. 
 From then onwards, you can select the Tour Float as the payment method in the regular payment flow, and click pay. Done.
@@ -28,3 +28,9 @@ From then onwards, you can select the Tour Float as the payment method in the re
 Simple! 
 Find the button that says "Add Funds" on the homepage or under The Pack Pay.
 When you click that button, select the currency you want to upload. You'll get an IBAN number and a BIC code that you can use as the destination for a regular bank transfer.
+
+#### Can I make payments even if the Tour Float is empty?
+Yes you can!
+You can initiate as many payments as you want, always indicating Tour Float as the payment method.
+While the Tour Float is empty, those payments will quietly sit and wait until there are new funds available.
+As soon as those funds become available... The payments will go through! Easy!
