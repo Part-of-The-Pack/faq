@@ -4,7 +4,7 @@ title: I am a crew member, can you make my invoice for me?
 tags:
     - general
     - support
-    - invoice
+    - invoices
 ---
 
 Yes we can!
