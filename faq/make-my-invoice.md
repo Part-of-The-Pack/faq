@@ -15,3 +15,6 @@ You can simply drop us an email at helpdesk@partofthepack.com, ideally including
 You can also use the chat by clicking the little square speech bubble icon at the bottom of the page.
 
 We will reach out to you with any additional questions we might have within 12 hours, and you'll get your invoice in 24h at most. Mostly, much quicker.
+
+Note that we base your invoice on the agreement that you have on The Pack with your counterpart (the payor). 
+In other words, please make sure the agreement is fully up-to-date and correct before you request an invoice from us :)  
