@@ -37,3 +37,11 @@ Every article should contain some metadata
   - intro: It should only contain one, and that is the intro of the FAQ home screen
   - outro: It should only contain one, and that is the outro of the FAQ home screen
 - tags: This can contain a list of tags that are used on the FAQ website to filter easily
+
+## Sync with webapp
+
+Every change automatically gets pushed to the production website
+
+### How
+
+This is done via a [webhook](https://github.com/Part-of-The-Pack/webapp-cms/settings/hooks) that gets triggered for every change (`push`) to the `main` branch.
