@@ -5,6 +5,7 @@ tags:
     - general
     - support
     - invoices
+    - taxes
 ---
 
 Yes we can!
