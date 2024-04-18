@@ -3,6 +3,7 @@ type: question
 title: Why do I need to fill out all those fields on Stripe?
 tags:
     - payments
+    - Stripe
 ---
 
 In order to be able to receive payments, you need to complete your Stripe signup. 
