@@ -23,7 +23,7 @@ The steps are the following:
    * _Amount_: prefilled with the full agreement amount + expenses. This is editable as well, which is useful for partial payments - for example if you want to get paid on a weekly basis during the tour, you can edit the amount so it only includes that week's wages.
    * _Reference_: in case you want to add a PO number for example.
    * _Extra details_: prefilled with the agreement name and the expense categories that were added. Editable to give more context (e.g. if you're requesting weekly payments, this is the place to make it crystal clear!)
-   * _Attachments_: this is where you can add invoices. Don't add expense items; those can be added to the agreement through the expense button. In that way, your expenses are added to the tour budget.
+   * _Attachments_: this is where you can add invoices. Don't add expense items; those can be added to the agreement [through the expense button](https://app.partofthepack.com/faq/invoice-proof-of-expense). In that way, your expenses are added to the tour budget.
 
 5. Click "request payment" and sit back until the money rolls in.
 
