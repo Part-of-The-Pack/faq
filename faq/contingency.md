@@ -29,7 +29,7 @@ You'll see them in a few places:
 
 1. Crew members or suppliers **can not see contingencies**. 
 When you share an agreement with the crew member or supplier, they only see the rate without contingency. This makes it easy for agencies to pay their subcontractors a net amount, while invoicing a net+fee amount towards their clients. And you may not want to communicate to your crew members that you've budgeted for some unforeseen costs as part of the agreement you have with them :)
-2. People with access to the b(r)and on The Pack **will** be able to see contingencies. 
+2. People with access to the tour organizer b(r)and on The Pack **will** be able to see contingencies. 
   
 #### Can I report contingencies separately?
 
