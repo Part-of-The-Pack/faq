@@ -8,7 +8,7 @@ tags:
 
 Right before you begin creating a tour, you should select the b(r)and under which you want to create this tour.
 
-People with access to this b(r)and will be able to collaborate with you on this tour - depending on which access rights they have.
+People [with access to this b(r)and](https://app.partofthepack.com/faq/brand-members-settings) will be able to collaborate with you on this tour - depending on which access rights they have.
 
 Members with "Manage" access will be able to do anything, including removing tours.
 

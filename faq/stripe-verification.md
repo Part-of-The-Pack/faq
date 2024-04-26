@@ -3,6 +3,7 @@ type: question
 title: I have a problem with verification of my Stripe account, now what?
 tags:
     - payments
+    - Stripe
 ---
 
 We’re sorry to hear it!
