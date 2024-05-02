@@ -27,3 +27,10 @@ You can add multiple agreement items to an agreement. We most commonly see a set
 You can use the prefills with the most common agreement items, or you can custom-create your own.
 
 Lastly, if you have agreements with a crew member or supplier that are based on a flat, fixed fee, independent of the type of day, you can add agreement items called "fixed" or "rental" and indicate the total amount.
+
+### Discuss an agreement
+As a tour organizer, you can invite people to work with you on a tour by sending them an agreement.
+As a crew member or supplier, you have the choice to either accept or decline the agreement, or to ask for changes. Apart from that, either side has the possibility to add remarks through the 'give feedback' button.
+
+Every change that was made to the agreement is mentioned to the other party by means of a notification in the app. 
+Additionally, the current status of the agreement is at all times shown in your agreement overview page.
