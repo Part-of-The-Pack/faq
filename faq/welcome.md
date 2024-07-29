@@ -47,6 +47,24 @@ Find more details for each step in the next sections.
 
 This is an easy one; if you're on this page you probably got invited already.
 
+### 2. More info
+
 You should have gotten an email notifying you that someone wants to add you to a tour.
 
 Click the black button in the email and you'll end up on the Accept and Sign Up page.
+
+<!-- Paragraph -->
+
+<!-- Left -->
+![some image here](https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/41393/786944_867530.jpg)
+<!-- Right -->
+some random but longer text
+here.
+
+#### with some more stuff
+
+<!-- END Paragraph -->
+
+### 3. Something else
+
+With more text
