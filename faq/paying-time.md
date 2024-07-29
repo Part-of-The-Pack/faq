@@ -27,3 +27,10 @@ Because the banks need to process the request, it takes a few days extra before 
 All information on how Bank Debits work can be found[ here](https://stripe.com/en-es/guides/introduction-to-bank-debits) on the Strip help center. 
 
 An overview of timelines per Bank Debit type can be found[ here](https://stripe.com/en-es/guides/introduction-to-bank-debits#comparison-of-global-bank-debit-methods).
+
+
+
+
+#### Tour Float
+
+If you use the Tour Float for payments, the money leaves your bank account when you upload your Tour Float. At the time you are paying someone, no money will go off your bank account.
