@@ -4,6 +4,7 @@ title: Welcome!
 tags:
     - general
     - support
+    - crew
 ---
 
 You probably landed here because you're invited as a crew member on a tour on The Pack, and you're a little lost.
