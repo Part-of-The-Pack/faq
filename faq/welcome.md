@@ -14,6 +14,8 @@ No worries, this page contains everything you need to get started!
 
 The Pack is a platform for tour managers and crew members to collaborate on the financial side of producing a tour.
 
+<img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/41393/786944_867530.jpg" alt="the-pack-logo" width="300"/>
+
 ## As a Crew Member, These Are the Key Steps:
 
 1. **Get Invited to an Agreement**  
@@ -38,3 +40,13 @@ The Pack is a platform for tour managers and crew members to collaborate on the 
 10. **Request to Get Paid and Add Your Invoice**
 
 Find more details for each step in the next sections.
+
+### 1. Get Invited
+
+<img src="https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_9000,w_1200,f_auto,q_auto/41393/416938_197525.png" alt="get-invited" width="300" />
+
+This is an easy one; if you're on this page you probably got invited already.
+
+You should have gotten an email notifying you that someone wants to add you to a tour.
+
+Click the black button in the email and you'll end up on the Accept and Sign Up page.
