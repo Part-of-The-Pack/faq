@@ -1,29 +1,59 @@
 ---
 type: question
-title: What are roles?
+title: What are categories?
 tags:
     - tour
+    - expenses
 ---
-When you add crew to your tour, we will ask you to assign a role to each crew member.
 
-Examples of roles can be "Lighting Tech", "FOH Engineer", or "Artist Manager".
 
- 
+When you add an expense to your tour, we will ask you to assign a category to each expense.
+
+Examples of expenses can be "Lighting Tech", "Splitter Van", "FOH Engineer", "Insurance" or "Artist Manager", 
+
+We have an extensive list of possible expenses, and we have included both the general category (e.g. "Crew Wages") and detailed roles in the list.
+
+The best way to use these is to simply **start typing your desired category** in the field, and select the one that resembles your search best.
+
+#### General Expense Categories
+
+The general categories are the following:
+- Wages
+- Per Diem
+- Accomodation
+- Travel
+- Production Logistics
+- Audio
+- Lights
+- Video
+- Backline
+- Set & Stage
+- Rigging
+- Production Costs
+- Catering
+- Admin
+- Marketing & Promotion
+- Merchandise
+- Insurance
+- Artist Wages
+- Management & Agency Fees
+- Visa & Work Permits
+- Accounting & Legal
+- Taxes
+- Miscellaneous
+
+#### Detailed Expense Categories
+
+You'll find lots of detailed categories linked to each of these general ones (e.g. Carnet bond, Travel insurance,...)
+In the reporting, expenses you've linked to a detailed category will automatically be reported under the correct general category as well. 
+E.g. if you've classified something as Travel insurance, it will be reported under Insurance.
+
+#### Crew Roles
 
 We know that for large tours with lots of crew, you will want to specify roles in detail... And for tours with a small crew, a general role makes more sense.
-
-That is why we have included both a list of general services that you can use to name your roles, as well as a more detailed breakdown under each service.
-
- 
-
-General **services** include artist services, audio production, backline, catering and hospitality, event logistics management, health, safety and welfare, lasers, SFX and pyro, lighting, load in/load out crew, merchandiser, performers, production coordination, staging and set design, transport, and video.
-
- 
+That is why we have included both a list of general categories that you can use to name your roles, as well as a more detailed breakdown under each service.
 
 The full list of **detailed roles** under each category can be found below:
-
- 
-
 
 - **Artist Services**: Art Director, Choreographer, Hair & Makeup, Massage Therapist, Musical Director, Orchestra Arranger, Orchestra Conductor, Orchestra Fixer, Personal Assistant, Personal Trainer, Photographer, Publicist, Stylist, Vocal Coach, Wardrobe Manager, Yoga Practitioner.
 
@@ -71,3 +101,5 @@ The full list of **detailed roles** under each category can be found below:
 In addition, we have included a list of **professions** that don't really fit under the services category, but might come in handy when assigning roles. Especially when you want to take for example the artist with you on the tour (which we recommend :).
 
 Silly jokes aside, professions include: agent, artist, artist manager, crew, festival organizer, industry body, production company, promotor, record label, supplier rental company, and venue.
+
+
