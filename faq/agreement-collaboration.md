@@ -2,8 +2,9 @@
 type: question
 title: How to collaborate with suppliers and crew on agreements?
 tags:
-    - collaboration
     - agreements
+    - crew
+    - suppliers
 ---
 
 Our platform allows you to invite your suppliers and crew to collaborate on their deals or agreements directly within the system. This ensures seamless communication and transparent management of terms and conditions.

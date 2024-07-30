@@ -1,6 +1,6 @@
 ---
 type: question
-title: Welcome!
+title: Accept your invitation
 tags:
     - general
     - support
