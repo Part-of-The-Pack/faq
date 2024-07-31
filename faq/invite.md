@@ -18,6 +18,17 @@ You can invite someone to use The Pack in different ways:
  - Do you want someone to work together with you on the same b(r)and? Invite this person to become a part of your b(r)and.
 
 ## Why would my coworkers want to join The Pack?
-The Pack makes tour life much easier for every person involved in the tour. That includes the ones you invite on the platform.
+The Pack makes life much easier for everyone involved in a tour. Some of the key benefits:
+- **Automation**: Invoices and expense receipts are automatically categorized after uploading, reducing the need for dropboxes and excels.
 
-And no worries about money: The Pack is free to use. We only ask for a 1% fee on every payment a payor makes through the platform.
+- **Centralized Communication**: All interactions and updates are in one place, reducing the need for email exchanges.
+
+- **Notification System**: Both you and your crew and suppliers receive email notifications whenever there are changes to your agreements.
+- 
+- **Clarity**: For those with access rights, budget vs actuals reporting becomes a breeze, in a clear reporting interface.
+
+- **Transparency**: Every change and update is documented, ensuring clear communication and accountability.
+
+- **Efficiency**: Streamline the management process, saving time and reducing the risk of miscommunication.
+ 
+The Pack is free to use for crew members who get invited to agreements by the way, so no worries about costs from that angle!
