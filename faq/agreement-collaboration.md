@@ -7,7 +7,8 @@ tags:
     - suppliers
 ---
 
-Our platform allows you to invite your suppliers and crew to collaborate on their deals or agreements directly within the system. This ensures seamless communication and transparent management of terms and conditions.
+The Pack allows you to invite your suppliers and crew to collaborate on their deals or agreements directly within the system. This ensures seamless communication and transparent management of terms and conditions.
+
 
 ---
 
@@ -15,21 +16,29 @@ Our platform allows you to invite your suppliers and crew to collaborate on thei
 
 You can invite your suppliers and crew by sending them an invitation through the platform. This invitation allows them to join and collaborate on agreements, review terms, and manage their commitments.
 
+* More information about how to invite someone [here](https://app.partofthepack.com/faq/invite)
+* More information about what to expect as a crew member or supplier once you are invited [here](https://app.partofthepack.com/faq/welcome-supplier)
+
+
 ---
 
 ### Can I add terms and conditions to an agreement?
 
 Yes, you can add your terms and conditions to any agreement. When your supplier or crew member accepts the agreement, they also accept these terms and conditions. This ensures that all parties are on the same page and adhere to the agreed-upon guidelines.
 
+
 ---
 
 ### How does the form link feature work?
 
-You can include a link to a form in your agreement. The recipient must click on this link and confirm that they have filled in the form before they can accept the agreement. This feature ensures that all necessary information is provided and agreed upon before finalizing the deal.
+You can include a link to a form in your agreement. This is useful for example when you need your crew members to share their passport, sign an NDA or answer specific questions.
+When you include a form link, the recipient is required to click on this link and confirm that they have filled in the form before they can accept the agreement. 
+This ensures that all necessary information is provided and agreed upon before finalizing the deal.
+
 
 ---
 
-### What are the benefits of using the platform for communication?
+### What are the benefits of using The Pack for communication?
 
 Using our platform to manage all official communications with your suppliers and crew has several benefits:
 
@@ -41,11 +50,13 @@ Using our platform to manage all official communications with your suppliers and
 
 - **Efficiency**: Streamline the management process, saving time and reducing the risk of miscommunication.
 
+
 ---
 
 ### How do I manage agreement changes?
 
 Whenever there is a change in the agreement, both you and your supplier will receive an email notification. You can view the changes, discuss them, and provide feedback directly on the platform. The current status of the agreement is always visible in your agreement overview page.
+
 
 ---
 
@@ -58,3 +69,5 @@ You can create various types of agreements tailored to your needs. Common setups
 - **Fixed/Rental Fees**: For flat, fixed fees independent of the type of day.
 
 The platform offers prefilled agreement items for convenience, or you can custom-create your own based on specific requirements.
+
+More information about how agreements work can be found [here](https://app.partofthepack.com/faq/agreement-items)
