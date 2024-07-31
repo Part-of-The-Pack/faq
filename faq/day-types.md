@@ -7,7 +7,7 @@ tags:
 
 Day types are basically the main thing that will happen during a tour day.
 
-You can choose between 4 day types currently:
+You can choose between 5 day types currently:
 
 
 *Show day*: the most exciting day of the tour - where the magic happens and the live show is performed
